@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="images/coder.png" alt="logo" width="140"  height="auto" />
+  <img src="./assets/images/coder.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Microverse Portfolio Project</b></h3>
 
 </div>
 
@@ -29,7 +29,7 @@
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-**[Hello Microverse]** is created by HTML and CSS to be showed a green colored "Hello-Microverse is first project on file!" Title.
+**[Hello Microverse]** is created by HTML and CSS to clone Portfolio project with all details through Figma.
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -40,7 +40,7 @@ Html and CSS.
 ### Key Features <a name="key-features"></a>
 
 - **[CSS file is externally linked to HTML]**
-- **[h1 tag is colored to green]**
+- **[Portfolio is designed using HTML CSS]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
