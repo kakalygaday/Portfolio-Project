@@ -104,7 +104,7 @@ Example command:
 
 - [ ] **[Add more HTML content]**
 
-- [ ] **[Add more HTML content]**
+- [ ] **[Add more CSS content]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
