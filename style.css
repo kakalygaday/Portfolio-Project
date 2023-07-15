@@ -1,0 +1,80 @@
+
+@media screen and (max-width:768px) {
+    body {
+        background-color: #e5e5e5;
+        padding: 0;
+        margin: 0;
+    }
+    section {
+        background-image: url(./assets/images/header-shapes\ mobile.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        flex-direction: column;
+        object-fit: contain;
+        max-width: fit-content;
+        width: 100%;
+        height: 718px;
+    }
+    main {
+        background-color: white;
+        width: 100vw;
+        height: 100vh;
+        border-radius: 0 0 0 18%;
+    }
+    header nav {
+        padding-top: 20px;
+        display: flex;
+        justify-content: space-between;
+    }
+    nav {
+        padding-right: 32px;
+        padding-left: 18px;
+    }
+    .my-logo a {
+        color: blue;
+        font-family: 'Poppins' , Arial, Helvetica, sans-serif;
+        font-style:normal;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 20px;
+        padding-left: 30px;
+        text-decoration: none;
+    }
+    h1 {
+        color: #172B4D;
+        font-family: 'Poppins', Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 52px;
+        margin-top: 140px;
+        padding-left: 32px;
+    }
+    .content{
+        color: #344563;
+        font-family: 'Poppins' , Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        padding-left: 32px;
+        padding-bottom: 34px;
+    }
+    .connect-link {
+        color: blueviolet;
+        font-family: 'Poppins' , Arial, Helvetica, sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 24px;
+        padding-left: 34px;
+    }
+    .social-media-links {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        gap: 16px;
+        list-style-type: none;
+    }
+}
